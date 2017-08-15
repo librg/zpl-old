@@ -1,0 +1,29 @@
+{
+  "name": "zpl",
+  "version": "1.0.0",
+  "description": "Single-file public domain header-only C and C++ libraries.",
+  "main": "include/zpl.h",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaklaus/zpl.git"
+  },
+  "keywords": [
+    "zpl",
+    "header-only",
+    "c",
+    "c++",
+    "small"
+  ],
+  "author": "Dominik Madarasz <zaklaus@outlook.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/zaklaus/zpl/issues"
+  },
+  "homepage": "https://github.com/zaklaus/zpl#readme"
+}
